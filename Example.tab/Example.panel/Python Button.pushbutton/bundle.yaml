@@ -1,0 +1,18 @@
+title:
+  ru: Кнопка Python
+  en_us: Python Button
+
+tooltip:
+  ru: >- 
+    Здесь можно написать 
+    
+    многострочное описание работы скрипта
+  en_us: >-
+    Here you can write
+
+    multi-line description of how the script works
+  
+author: dosymep
+
+min_revit_version: 2020
+max_revit_version: 2024

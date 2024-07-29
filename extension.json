@@ -1,0 +1,18 @@
+{
+    "builtin": "False",
+    "default_enabled": "True",
+    "type": "extension",
+    "rocket_mode_compatible": "False",
+    "name": "99.Example",
+    "description": "Пример расширения pyRevit",
+    "author": "dosymep",
+    "author_profile": "https://github.com/dosymep",
+    "url": "https://github.com/Bim4Everyone",
+    "website": "https://github.com/Bim4Everyone/ExampleExtension",
+    "image": "",
+    "templates": {
+        "author": "dosymep",
+        "docpath": "https://www.youtube.com/watch?v="
+    },
+    "dependencies": [ "BIM4Everyone" ]
+}
