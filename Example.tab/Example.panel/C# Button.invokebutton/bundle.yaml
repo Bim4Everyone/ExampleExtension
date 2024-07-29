@@ -1,0 +1,37 @@
+title:
+  ru: Кнопка C#
+  en_us: C# Button
+
+tooltip:
+  ru: >- 
+    Размещение стену с заданным типоразмером по 2 заданным точкам
+    
+    
+    Для запуска плагина необходимо, чтобы активный вид был планом.
+
+
+    1. Открыть документ, перейти на план и запустить плагин.
+
+    2. Задать настройки для размещаемой стены и выбрать стартовую и конечную точки.
+
+    3. Нажать "Ок".
+  en_us: >- 
+    Creates wall by configured settings by 2 points
+    
+    
+    Before you start the plugin, make sure your active view is Plan.
+    
+    
+    1. Open document and go to Plan.
+
+    2. Set creation settings and pick start and end points.
+
+    3. Press "Ok".
+
+assembly: RevitExamplePlugin.dll
+command_class: RevitExamplePluginCommand
+
+author: dosymep
+
+min_revit_version: 2022
+max_revit_version: 2024
